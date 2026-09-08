@@ -1,6 +1,6 @@
-# Atelier Nord
+# Закрыт
 
-Demo-Portfolio einer Visitenkarte. Kein echter Salon.
+Этот репозиторий создан по ошибке как публичный.
+Код сайта удалён. Рабочий репо только приватный: gosha-oss/sites
 
-Code: https://github.com/gosha-oss/atelier-nord
-Pages: https://gosha-oss.github.io/atelier-nord/
+Удалите этот репозиторий в Settings → Delete repository.
